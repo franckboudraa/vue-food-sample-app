@@ -4,13 +4,10 @@
   </div>
 </template>
 
-<script lang="ts">
-import { Component, Prop, Vue } from "vue-property-decorator";
-
-@Component
-export default class Shop extends Vue {
-  @Prop() private msg!: string;
-}
+<script>
+export default {
+  name: "Shop"
+};
 </script>
 
 <style scoped></style>

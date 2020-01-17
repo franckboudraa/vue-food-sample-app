@@ -23,11 +23,10 @@
   </div>
 </template>
 
-<script lang="ts">
-import { Component, Vue } from "vue-property-decorator";
-
-@Component
-export default class HeaderBar extends Vue {}
+<script>
+export default {
+  name: "HeaderBar"
+};
 </script>
 
 <style scoped></style>

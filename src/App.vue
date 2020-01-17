@@ -16,16 +16,13 @@
   color: #2c3e50;
   font-size: 120%;
 }
-
 #nav {
   padding: 30px;
 }
-
 #nav a {
   font-weight: bold;
   color: #2c3e50;
 }
-
 #nav a.router-link-exact-active {
   color: #42b983;
 }
@@ -33,7 +30,6 @@
 
 <script>
 import HeaderBar from "@/components/HeaderBar.vue";
-
 export default {
   name: "app",
   components: { HeaderBar }
