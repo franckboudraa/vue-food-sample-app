@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" is="sui-container">
     <div id="nav">
       <HeaderBar />
     </div>
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  font-size: 120%;
 }
 
 #nav {

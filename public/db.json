@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "starter",
+      "title": "Carottes rôties, sauce Grecque aux herbes et graines de courge",
+      "description": "Prenez des carottes taillées finement et rôties au four, accompagnez les d'une sauce crémeuse au yaourt grec avec plein de bonnes herbes fraîches et parsemez de graines de courges pour le croquant. Frais et délicieux !",
+      "ingredients": "Carotte, Huile d'olive, Miel, Vinaigre balsamique blanc, Sel, Poivre, Yaourt grec, Eau, Menthe, Ciboulette, Cerfeuil, Ail, Piment d'Espelette, Graines de courge",
+      "allergens": "Sulfites, Produits laitiers",
+      "picture": "https://static.popchef.com/v2/products/i8u7qxFb1gR87IAyH4TaUdB9q9k.jpeg",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "category": "dish",
+      "title": "Lasagnes veggie",
+      "description": "Lasagnes végétariennes aux épinards et béchamel au chèvre légèrement acidulée accompagnées d'une sauce tomate maison.",
+      "ingredients": "Epinards, Lasagnes, Chèvre, Muscade, Tomates, Oignons, Basilic, Piment de cayenne, Sel, Farine de blé, Fromage, Beurre doux",
+      "allergens": "Produits laitiers, Gluten",
+      "picture": "https://static.popchef.com/v2/products/ieUVHojUyRvx8ObfD9GXWPXPahs.jpeg",
+      "tags": []
+    },
+    {
+      "id": 3,
+      "category": "dessert",
+      "title": "Comme un Paris Brest",
+      "description": "Une crème pralinée onctueuse au bon goût de noisette à savourer avec un craquelin croustillant. Comme un clin d'oeil à un grand classique de la pâtisserie française",
+      "ingredients": "Mascarpone, Crème liquide 30%, Beurre demi-sel, Farine de blé, Cassonade, Pralin noisette",
+      "allergens": "Produits laitiers, Gluten, Fruits à coques",
+      "picture": "https://static.popchef.com/v2/products/yjtfSdczt-5WRZVVuyHxs4YAp98.jpeg",
+      "tags": []
+    },
+    {
+      "id": 4,
+      "category": "starter",
+      "title": "Salade de lentilles, œuf poché bio",
+      "description": "Des lentilles du Vexin, un petit peu de moutarde pour relever cette salade et un œuf poché bio avec le jaune bien coulant, c'est si bon quand c'est simple ;)",
+      "ingredients": "Vinaigre de Xérès, Poivre, Lentilles vertes, Huile de colza, Sel, Moutarde à l'ancienne, Echalote, Persil, Oeuf poché bio",
+      "allergens": "Sulfites, Moutarde, Oeuf",
+      "picture": "https://static.popchef.com/v2/products/WmgdGw1-6MNyff5qe0cTc_UgOJY.jpeg",
+      "tags": ["Lactose free", "Gluten free"]
+    },
+    {
+      "id": 5,
+      "category": "dish",
+      "title": "Sauté de porc aux épices",
+      "description": "Réchauffez les coeurs avec notre porc aux épices et légumes frais : courgettes, carottes et pommes de terre fondantes.",
+      "ingredients": "Coriandre, Curcuma, Thym, Harissa, Citron confit, Carottes, Courgette, Oignon, Cumin, Poivre, Sauté de porc, Huile de colza, Sel, Pulpe de tomate, Huile d'olive, Concentré de tomate, Beurre doux, Bouillons de légumes, Pomme de terre, Persil, Fonds de volaille",
+      "allergens": "Produits laitiers, Céleri, Gluten",
+      "picture": "https://static.popchef.com/v2/products/6HiYv2mYELCUj_6j7kyRRsHJRoM.jpeg"
+    },
+    {
+      "id": 6,
+      "category": "dessert",
+      "title": "Tartelette au chocolat noir praliné",
+      "description": "Le bon goût d'une ganache intense au chocolat noir et éclats de praliné dans une tartelette au beurre frais. Un délice !",
+      "ingredients": "Crème, Farine de blé, Beurre doux, Sucre, Oeuf, Chocolat noir, Pépites de chocolat au lait, Noisette, Feuilletine",
+      "allergens": "Produits laitiers, Gluten, Oeuf, Soja, Fruits à coques",
+      "picture": "https://static.popchef.com/v2/products/VUVs7QDVvjGUMOyW3nk5PeS3oCc.jpeg"
+    }
+  ]
+}
