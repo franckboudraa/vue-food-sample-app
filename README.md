@@ -33,7 +33,3 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# API
-
-https://my-json-server.typicode.com/franckboudraa/vue-food-sample-app
