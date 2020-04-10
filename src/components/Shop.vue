@@ -15,9 +15,6 @@ export default {
     return {
       products: null
     };
-  },
-  mounted: () => {
-    console.log("mounted shop");
   }
 };
 </script>
