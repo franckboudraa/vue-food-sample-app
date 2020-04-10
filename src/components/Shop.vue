@@ -1,12 +1,24 @@
 <template>
   <div>
-    shop
+    <h1>Welcome to VueFood!</h1>
+    <h2 style="margin-top:0px">Fresh food to your door!</h2>
+    <ProductCard />
   </div>
 </template>
 
 <script>
+import ProductCard from "./ProductCard";
 export default {
-  name: "Shop"
+  name: "Shop",
+  components: { ProductCard },
+  data: () => {
+    return {
+      products: null
+    };
+  },
+  mounted: () => {
+    console.log("mounted shop");
+  }
 };
 </script>
 

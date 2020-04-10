@@ -9,13 +9,14 @@ Vue.config.productionTip = false;
 
 Vue.prototype.$appName = "VueFood";
 
-const fetchDB = async () => {
+/*const fetchDB = async () => {
   const db = await fetch("/db.json");
 
-  console.log(await db.json());
+    console.log(await db.json());
 };
 
 fetchDB();
+*/
 
 new Vue({
   router,
